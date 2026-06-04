@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=itssShiva&label=Profile+Views&color=6e40c9&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/itssShiva?label=Followers&style=for-the-badge&color=a960ee&labelColor=1a1a2e" alt="Followers" />
-  <img src="https://img.shields.io/badge/Location-Noida%2C%20UP-6e40c9?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Sitapur%2C%20UP-6e40c9?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </div>
 
 ---
@@ -85,16 +85,21 @@ const shiva = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itssShiva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a960ee&icon_color=6e40c9&text_color=ffffff&rank_icon=github" height="195px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssShiva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a960ee&text_color=ffffff&langs_count=6" height="195px" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itssShiva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a960ee&icon_color=6e40c9&text_color=ffffff&rank_icon=github&cache_seconds=3600" height="195px" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssShiva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a960ee&text_color=ffffff&langs_count=6&cache_seconds=3600" height="195px" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itssShiva&theme=tokyonight&hide_border=true&background=0D1117&ring=a960ee&fire=6e40c9&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a960ee&dates=888888" alt="GitHub Streak" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itssShiva&bg_color=0D1117&color=a960ee&line=6e40c9&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=itssShiva&theme=tokyonight&hide_border=true&background=0D1117&ring=a960ee&fire=6e40c9&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a960ee&dates=888888&stroke=a960ee" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itssShiva&bg_color=0D1117&color=a960ee&line=6e40c9&point=ffffff&area=true&hide_border=true&area_color=6e40c9" alt="GitHub Activity Graph" width="95%"/>
 </div>
 
 ---
